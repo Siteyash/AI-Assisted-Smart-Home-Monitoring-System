@@ -1,4 +1,11 @@
 # 🏠 AI-Assisted Smart Home Monitoring and Automation System
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino_IDE-2.x-00979D?logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP8266-NodeMCU-black?logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blynk-IoT-23C48E?logo=blynk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-WiFi-blue?logo=wifi&logoColor=white" />
+</p>
 
 An IoT-based smart home monitoring and automation project developed using **ESP8266, Blynk IoT, and environmental sensors**.
 
