@@ -1,0 +1,20 @@
+
+# Credentials
+secrets.h
+credentials.h
+.env
+.env.*
+
+# Arduino temporary files
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
