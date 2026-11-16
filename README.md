@@ -1,4 +1,5 @@
 # 🏠 AI-Assisted Smart Home Monitoring and Automation System
+> **Designed & Developed by Yash Site.**
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino_IDE-2.x-00979D?logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus&logoColor=white" />
